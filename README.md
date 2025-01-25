@@ -31,7 +31,7 @@ This project focuses on the early detection of Alzheimer’s disease using deep 
 
 The implementation details are available in the repository. Refer to the following file for functionality:
 
-- [`train_model.py`](./train_model.py): Script to train the ResNet152V2 model on MRI data.
+- [`AD_New_Model.ipynb`](./AD_New_Model.ipynb): Script to train and test the ResNet152V2 model on MRI data.
 
 ## Results
 
