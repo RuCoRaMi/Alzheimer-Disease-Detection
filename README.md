@@ -10,8 +10,8 @@ This project focuses on the early detection of Alzheimer’s disease using deep 
 2. Quantitatively evaluate the model's accuracy in detecting and classifying Alzheimer’s stages based on MRI images.
 
 ## Dataset
-Dataset used in this project provided by Kaggle user [Uraninjo]([url](https://www.kaggle.com/uraninjo))
-Link to Dataset : [Augmented Alzheimer MRI Dataset V2]([url](https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset-v2))
+- Dataset used in this project provided by Kaggle user [Uraninjo](https://www.kaggle.com/uraninjo)
+- Link to Dataset : [Augmented Alzheimer MRI Dataset V2](https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset-v2)
 
 ## Methodology
 
