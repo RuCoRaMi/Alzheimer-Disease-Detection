@@ -9,6 +9,10 @@ This project focuses on the early detection of Alzheimer’s disease using deep 
 1. Develop a robust machine learning model using transfer learning with the ResNet152V2 architecture.
 2. Quantitatively evaluate the model's accuracy in detecting and classifying Alzheimer’s stages based on MRI images.
 
+## Dataset
+Dataset used in this project provided by Kaggle user [Uraninjo]([url](https://www.kaggle.com/uraninjo))
+Link to Dataset : [Augmented Alzheimer MRI Dataset V2]([url](https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset-v2))
+
 ## Methodology
 
 - **Data Preprocessing**: MRI images are resized to 224x224 pixels and rescaled to a range of 0-1.
